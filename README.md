@@ -1,16 +1,17 @@
-### Hi there 👋
+# Oi! 👋
+### Bem vindo ao meu GitHub :D
 
-<!--
-**MatheusStefan/MatheusStefan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 23 anos e sou formado em Biomedicina. Com a pandemia senti a necessidade de expandir minha área e comecei a estudar programação por conta própria, começando com Java. Uso esse perfil para estudos e postagens de projetos externos que faço. 
 
-Here are some ideas to get you started:
+#### Atualmente estudando:
+- Java / SpringBoot
+- C# / ambiente .NET
+- SQL e MongoDB
+- Docker
+- HTML, CSS e JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Coisas que gosto de fazer:
+- Tocar violão e gravar músicas
+- Fotografia
+- Culinária
+
