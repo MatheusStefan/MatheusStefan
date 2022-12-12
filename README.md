@@ -1,8 +1,10 @@
-<h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
+<div>
+  <img align="right" height="250em" src="https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif">
+  <h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
+<div/>
 
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=matheusstefan" alt="matheusstefan">
-  <img align="right" height="200em" src="https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif"/> 
 </p>
 
 
