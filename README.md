@@ -1,7 +1,9 @@
-<img align="right" height="300em" src="https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif">
-<h2 align="left">Hello there 👋, I'm Matheus Stefan<h2/>
+<h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=matheusstefan" alt="matheusstefan" /> </p>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=matheusstefan" alt="matheusstefan">
+  <img align="right" height="200em" src="https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif"/> 
+</p>
 
 
 - 🔬 Biomedic
