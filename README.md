@@ -1,17 +1,22 @@
 <div>
-  <img align="right" height="250em" src="https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif">
-  <h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
-<div/>
+  <img align="right" width="150em"src="https://komarev.com/ghpvc/?username=matheusstefan" alt="matheusstefan">
+    <h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
+      <div align="left">
+       <img align="right" height="190em" src="https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif">
+        <ul>
+          <li> 🔬 Biomedic</li>
+          <li> 🎼 Musicist</li>
+          <li> 🅰️ FullStack developer</li>
+          <li> 📚 Using to document my studies</li>
+        </ul>
+       </div>
+ </div>
+  
 
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=matheusstefan" alt="matheusstefan">
-</p>
 
 
-- 🔬 Biomedic
-- 🎼 Musicist
-- 📚 Using this profile to document my studies 
 
+  
 ### ⚙️ &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -42,5 +47,3 @@
   <img width="150em"src="https://img.shields.io/badge/matheusstefan-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/>
 </a>
 </p>
-
-
