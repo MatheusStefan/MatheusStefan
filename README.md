@@ -12,7 +12,7 @@
 - 🎼 Musicist
 - 📚 Using this profile to document my studies 
 
-## ⚙️ &nbsp;Tech Stack
+### ⚙️ &nbsp;Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -24,13 +24,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-## 📊 &nbsp;Github analytics
+### 📊 &nbsp;Github analytics
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=matheusstefan&show_icons=true&theme=vision-friendly-dark" alt="matheus's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusstefan&layout=compact&theme=vision-friendly-dark" alt="matheus's most languages"/>
 
 <br><br>
 
-## 👦🏻 &nbsp;Social Links
+### 👦🏻 &nbsp;Social Links
 <p>
 <a href="https://instagram.com/matheus_stefan" target="_blank">
   <img width="150em"src="https://img.shields.io/badge/matheusstefan-%23E4405F.svg?style=flat&logo=Instagram&logoColor=white" alt="instagram"/>
