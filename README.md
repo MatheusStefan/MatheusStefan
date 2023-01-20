@@ -1,15 +1,14 @@
 <div>
-  <img align="right" width="150em"src="https://komarev.com/ghpvc/?username=matheusstefan" alt="matheusstefan">
-    <h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
-      <div align="left">
-       <img align="right" height="190em" src="https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif">
-        <ul>
-          <li> 🔬 Biomedic</li>
-          <li> 🎼 Musicist</li>
-          <li> 🅰️ FullStack developer</li>
-          <li> 📚 Using to document my studies</li>
-        </ul>
-       </div>
+  <h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
+  <div align="left">
+   <img align="right" height="190em" src="https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif">
+    <ul>
+      <li> 🔬 Biomedic</li>
+      <li> 🎼 Musicist</li>
+      <li> 🅰️ FullStack developer</li>
+      <li> 📚 Using to document my studies</li>
+    </ul>
+   </div>
  </div>
   
 
