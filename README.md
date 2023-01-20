@@ -1,7 +1,6 @@
 <div>
   <h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
   <div align="left">
-   <img align="right" height="190em" src="https://media.tenor.com/qXsgPu0UMHEAAAAM/xd-programming.gif">
     <ul>
       <li> 🔬 Biomedic</li>
       <li> 🎼 Musicist</li>
