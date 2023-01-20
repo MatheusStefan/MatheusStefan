@@ -5,7 +5,7 @@
     <ul>
       <li> 🔬 Biomedic</li>
       <li> 🎼 Musicist</li>
-      <li> 🅰️ FullStack developer</li>
+      <li> 🅰️ FullStack developer student</li>
       <li> 📚 Using to document my studies</li>
     </ul>
    </div>
