@@ -29,7 +29,7 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📊 &nbsp;Github analytics
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=matheusstefan&show_icons=true&theme=vision-friendly-dark" alt="matheus's stats"/>
+<img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=matheusstefan&show_icons=true&theme=vision-friendly-dark" alt="matheus's stats"/>
 <img width="530em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=matheusstefan&layout=compact&theme=vision-friendly-dark" alt="matheus's most languages"/>
 
 <br><br>
