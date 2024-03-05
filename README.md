@@ -4,8 +4,8 @@
   <div align="left">
     <ul>
       <li> 🔬 Biomedic</li>
-      <li> 🎼 Musicist</li>
-      <li> 🅰️ FullStack developer student</li>
+      <li> 🎼 <a href="https://open.spotify.com/artist/01nhiJDD1jA4Bu3VDTlPVN">Musicist</a></li>
+      <li> 🅰️ FullStack developer student at <a href="https://github.com/mate-academy">@mateacademy</a></li>
       <li> 📚 Using to document my studies</li>
     </ul>
    </div>
