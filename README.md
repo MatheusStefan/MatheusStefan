@@ -3,10 +3,9 @@
   <h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
   <div align="left">
     <ul>
+      <li> Fullstack Developer</li>
       <li> 🔬 Bio-analyst</li>
       <li> 🎼 <a href="https://open.spotify.com/artist/01nhiJDD1jA4Bu3VDTlPVN">Musician</a></li>
-      <li> 🅰️ FullStack developer student at <a href="https://github.com/mate-academy">@mateacademy</a></li>
-      <li> 📚 Using to document my studies</li>
     </ul>
    </div>
  </div>
