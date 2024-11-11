@@ -3,7 +3,7 @@
   <h1 align="left">Hello there 👋, I'm Matheus Stefan<h1/>
   <div align="left">
     <ul>
-      <li> Fullstack Developer</li>
+      <li> Frontend Developer</li>
       <li> 🔬 Bio-analyst</li>
       <li> 🎼 <a href="https://open.spotify.com/artist/01nhiJDD1jA4Bu3VDTlPVN">Musician</a></li>
     </ul>
