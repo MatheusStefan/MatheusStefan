@@ -4,6 +4,7 @@
   <div align="left">
     <ul>
       <li> Frontend Developer</li>
+      <li> Backend student</li>
       <li> 🔬 Bio-analyst</li>
       <li> 🎼 <a href="https://open.spotify.com/artist/01nhiJDD1jA4Bu3VDTlPVN">Musician</a></li>
     </ul>
